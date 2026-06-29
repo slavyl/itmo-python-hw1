@@ -28,7 +28,7 @@
 #     else:
 #         b = b - a
 # nod = a
-# print('НОД равен', nod
+# print('НОД равен', nod)
 
 
 
